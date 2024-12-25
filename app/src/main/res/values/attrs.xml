@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomView">
+        <attr name="custom_rectangle_color" format="color"/>
+        <attr name="custom_inner_circle_radius" format="dimension"/>
+    </declare-styleable>
+    
+</resources>
