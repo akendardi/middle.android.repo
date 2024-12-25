@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.example.androidpracticumcustomview.screen2.CustomView
+        android:layout_width="100.dp"
+        android:layout_height="100.dp" />
+
+    <com.example.androidpracticumcustomview.screen2.CustomView
+        android:layout_width="200.dp"
+        android:layout_height="200.dp" />
+
+
+</merge>

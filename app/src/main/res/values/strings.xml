@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">android practicum custom view</string>
+    <string name="title_activity_first_screen">FirstScreenActivity</string>
+    <string name="title_activity_third_screen">ThirdScreenActivity</string>
 </resources>
